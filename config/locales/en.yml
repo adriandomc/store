@@ -28,4 +28,17 @@
 #       enabled: "ON"
 
 en:
-  hello: "Hello world"
+  products:
+    index:
+      title: "Productos"
+      new-product: "New product"
+    _inventory:
+      out-stock: "Out of stock"
+      email-me-available: "Email me when available"
+      submit: "Submit"
+    
+  layouts:
+    application:
+      home: "Home"
+      login: "Login"
+      logout: "Logout"

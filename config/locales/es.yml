@@ -1,0 +1,16 @@
+
+es:
+  products:
+    index:
+      title: "Productos"
+      new_product: "Nuevo producto"
+    _inventory:
+      out-stock: "Sin existencias"
+      email-me-available: "Avísame cuando haya disponibilidad"
+      submit: "Enviar"
+  
+  layouts:
+    application:
+      home: "Inicio"
+      login: "Iniciar sesión"
+      logout: "Cerrar sesiòn"
